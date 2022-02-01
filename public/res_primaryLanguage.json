@@ -61,8 +61,8 @@
         "startDate": "2020",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/upwork/",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/upwork/deal1.png",
+          "images/portfolio/upwork/deal2.png"
         ],
         "url": "https://github.com",
         "technologies": [
