@@ -1,0 +1,61 @@
+{
+    "basic_info": {
+      "name": "Md Yeapas",
+      "titles": [ "Back-end Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/yeapes",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/_yeapes_/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "95"
+        }, 
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "95"
+        }, 
+        
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+   
+      ]
+    }
+  }

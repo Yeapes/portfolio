@@ -1,0 +1,116 @@
+{
+    "basic_info": {
+      "description_header": "আমি ইয়াপেস",
+      "description": "👋 আমি একজন ফুল স্ট্যাক ওয়েব ডেভেলপার, আমি পিএইচপি এবং লারাভেল ফ্রেমওয়ার্কে ২ বছরেরও বেশি সময় ধরে কাজ করছি। একটি আবেগপূর্ণ, দায়িত্বশীল এবং প্রতিশ্রুতিবদ্ধ সফ্টওয়্যার বিকাশকারী হিসাবে আমার ক্যারিয়ার গড়তে, সময়মতো কাজ করার মনোভাব সহ, যা আমাকে আমি যে কোম্পানির জন্য কাজ করি তার সেবা করতে সাহায্য করবে, যাতে এটি উভয়কেই সাহায্য করবে সংগঠনের উন্নয়ন। আমি দক্ষ, মাপযোগ্য, এবং সুরক্ষিত প্রযুক্তি সমাধানগুলি বিকাশে দক্ষ। PHP, HTML, CSS, SQL, jQuery এবং JavaScript এর শব্দ জ্ঞান। ওয়েব পেজ এবং ওয়েবসাইটগুলিকে কার্যকরী করার জন্য বিকাশ এবং ডিজাইন করার ক্ষমতা। বহু-ব্যবহারকারী অ্যাপ্লিকেশন বিকাশ করার ক্ষমতা। ডিজাইন এবং ডেভেলপমেন্ট REST API 💜",
+      "section_name": {
+        "about": "আমার সম্পর্কে ",
+        "projects": "প্রজেক্ট ",
+        "skills": "স্কিল ",
+        "experience": "অভিজ্ঞতা "
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - obecnie",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Stażystka",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "Swagger",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
