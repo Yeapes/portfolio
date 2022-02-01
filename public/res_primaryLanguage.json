@@ -11,36 +11,38 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Mark Drawing",
+        "startDate": "2021",
+        "description": "Drawing Business Website, It's very easy to order from website for make an easy drawing!. By the way, It's my interesting project, but look like very easy and simple.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/upwork/mark1.jpg",
+          "images/portfolio/upwork/mark2.png",
+          "images/portfolio/upwork/mark3.png"
+          
         ],
-        "url": "",
+        "url": "https://markdrawing.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "FMS-Follow-up Management System",
+        "startDate": "2020",
+        "description": "**Follow-up management system developed for a Real-State Company.  Features: *Lead Manage *Follow-up Manage *User Manage *Filter By Date  *Strong User Management",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/upwork/fms1.jpg",
+          "images/portfolio/upwork/fms2.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,11 +57,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "A single Vendor Multi Type products E-Commerce Solution",
+        "startDate": "2020",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/upwork/",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
