@@ -44,7 +44,7 @@
           "images/portfolio/upwork/fms1.jpg",
           "images/portfolio/upwork/fms2.png"
         ],
-        "url": "https://github.com",
+        "url": "http://fms.yeapes.xyz/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -64,7 +64,7 @@
           "images/portfolio/upwork/deal1.png",
           "images/portfolio/upwork/deal2.png"
         ],
-        "url": "https://github.com",
+        "url": "http://deal.yeapes.xyz/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -83,52 +83,64 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Durbar Technologies Ltd. ",
+        "title": "Back-end Developer",
+        "years": "Nov 2021  - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Laravel 6/7/8"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "REST API", 
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MDBootstrap",  
+          "Vue js"  
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Youth Fire IT ",
+        "title": "Web Application Developer",
+        "years": "Oct 2020 - Aug 2021 ",
         "mainTech": [
-          "Angular 7/8"
+          "Laravel 5/6/7"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
           "PHP",
+          "Laravel",
+          "React",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "OASIS Net Link Ltd",
+        "title": "Junior Web Developer",
+        "years": "Feb 2020 - Jul 2020",
         "mainTech": [
-          "Angular 7/8"
+          "PHP 5/7"
         ],
-        "technologies": [
-          "RxJS",
-          "Django",
+        "technologies": [ 
+          "Laravel",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "Jquery"
+        ]
+      },
+      {
+        "company": "IBCS-Primax Software Bangladesh Ltd. ",
+        "title": "Internship",
+        "years": "Feb 2019 - Jul 2019",
+        "mainTech": [
+          "PHP 5/7"
+        ],
+        "technologies": [ 
+          "Laravel",
+          "PHP",
+          "JavaScript",
+          "Bootstrap",
+          "Jquery",
+          "Wordpress"
         ]
       }
     ]
